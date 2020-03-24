@@ -3,6 +3,8 @@ print-your-own-toilet-paper
 
 Does what it says on the tin. Don’t take unnecessary risk, print your own toilet paper! Download directly [here](https://github.com/giacecco/print-your-own-toilet-paper/raw/master/printable.pdf) and follow the instructions.
 
+![alt text](small-image-for-readme.png "Preview image")
+
 # Instructions
 1. print this on a A4 sheet of paper,
 2. cut along the continuous lines marked by the scissors symbol to obtain 3 standard 15cm x 10cm sheets of toilet paper
