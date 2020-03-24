@@ -5,7 +5,7 @@ Does what it says on the tin. Don’t take unnecessary risk, print your own toil
 
 # Instructions
 1. print this on a A4 sheet of paper,
-2. cut along the continuous lines marked by the scissors symbol to obtain 3 sheets of toilet paper
+2. cut along the continuous lines marked by the scissors symbol to obtain 3 standard 15cm x 10cm sheets of toilet paper
 3. apply glue in the marked areas and connect the pieces,
 4. wait for the glue to dry, and
 5. apply to the relevant body parts.
