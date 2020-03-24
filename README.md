@@ -1,7 +1,7 @@
 print-your-own-toilet-paper
 ===========================
 
-Does what it says on the tin. Don’t take unnecessary risk, print your own toilet paper! Download directly [here](raw/master/printable.pdf) and follow the instructions.
+Does what it says on the tin. Don’t take unnecessary risk, print your own toilet paper! Download directly [here](/giacecco/print-your-own-toilet-paper/raw/master/printable.pdf) and follow the instructions.
 
 # Instructions
 1. print this on a A4 sheet of paper,
