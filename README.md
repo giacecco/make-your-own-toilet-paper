@@ -12,6 +12,8 @@ Does what it says on the tin. Don’t take unnecessary risk, print your own toil
 4. wait for the glue to dry, and
 5. apply to the relevant body parts.
 
+Save trees, and consider re-using paper that was already printed, such as old bills you paid and don't need to keep for your record :-)
+
 # For contributors
 You are welcome to submit pull request for alternative paper formats, or decorated versions. Please ensure that you have the rights to use any imagery.
 
