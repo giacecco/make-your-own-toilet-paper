@@ -15,7 +15,7 @@ Does what it says on the tin. Don’t take unnecessary risk, print your own toil
 Save trees, and consider re-using paper that was already printed, such as old bills you paid and don't need to keep for your record :-)
 
 # For contributors
-You are welcome to submit pull request for alternative paper formats, or decorated versions. Please ensure that you have the rights to use any imagery.
+The template is made using [LibreOffice](https://www.libreoffice.org/), a suite of office applications equivalent to MS Office (TM), but that is free and open source. You do not need to purchase any software to contribute. You are welcome to submit pull request for alternative paper formats, or decorated versions. Please ensure that you have the rights to use any artwork and to comply with any licensing constraints, typically attribution.
 
 # LICENCE
 The scissors symbol is (C) scwepes [from the Noun Project](https://thenounproject.com/search/?q=scissors&i=1987730), licensed under Creative Commons attribution licence. Everything else is released under [Creative Commons CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/).
